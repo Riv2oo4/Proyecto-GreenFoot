@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyWorld\ here.\r\n\ Universidad\ del\ Valle\ de\ Guatemala\r\n\ Hugo\ Rivas\ \r\n\ Prototipo\ programado\ 1\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=numero
+comment2.target=void\ crearEnemigos(int)
+numComments=3

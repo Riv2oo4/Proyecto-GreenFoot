@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pepe
+comment0.text=\r\n\ "La\ clase\ Pepe\ se\ refiere\ al\ protagonista\ del\ juego\ que\ es\ el\ que\ tiene\ que\ evitar\ los\ obst\u00E1culos"\r\n\ Universidad\ del\ Valle\ de\ Guatemala\r\n\ Hugo\ Rivas\r\n\ Proyecto\ GreenFoot\r\n
+comment1.params=
+comment1.target=void\ Pepe()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=direccion
+comment3.target=void\ setDireccion(int)
+numComments=4
